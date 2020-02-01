@@ -1,0 +1,13 @@
+Package: hadcol
+Title: try testing
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Paul",
+           family = "Dong",
+           role = c("aut", "cre"),
+           email = "paulcynic@gmail.com")
+Description: insert a dataframe / col into anther data.frame .
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
